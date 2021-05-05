@@ -1,4 +1,4 @@
-![Blue Marketing Start-up Business Facebook Cover](https://user-images.githubusercontent.com/45379824/116827447-9d83f300-abb6-11eb-8f4b-4f10382a23ca.png)
+![banner](https://user-images.githubusercontent.com/45379824/117184910-e32efe80-adf6-11eb-9463-6246a059e588.png)
 
 - 🔭 I’m currently working on ServiceNow
 - 🌱 I’m currently learning Full Stack Development
