@@ -1,5 +1,5 @@
 <h1>Hello there, fellow developers..! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h1>
-<p>I'm <b>Surya</b>, an electronics grad turned out to a software developer and focusing on <b>MERN Stack development</b>.</p>
+<p>I'm <b>Surya</b>, an electronics grad turned out to a software developer and focusing on <b>Full Stack development</b>.</p>
 
 - 🔭 I’m currently working on <b>Full Stack Development</b>.
 - 🌱 Tech Stack: React, Angular, NodeJS, Express, Javascript, Python, MondoDB, Docker, ServiceNow.
