@@ -2,7 +2,7 @@
 <p>I'm <b>Surya</b>, an electronics grad turned out to a software developer and focusing on <b>Full Stack development</b>.</p>
 
 - 🔭 I’m currently working on <b>Full Stack Development</b>.
-- 🌱 Tech Stack: React, Angular, NodeJS, Express, Javascript, Python, MondoDB, Docker, ServiceNow.
+- 🌱 Tech Stack: React, Angular, NodeJS, Express, Javascript, Python, MondoDB, PostgreSQL Docker, ServiceNow.
 - 😄 <b>Active Learner, Tech Enthusiastic and Open for New Technologies</b>
 - ⚡ Interests: <b>Blockchain</b>
 - 🔍 In my free time, I would like to explore new things on internet.
