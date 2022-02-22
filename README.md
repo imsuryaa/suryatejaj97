@@ -1,5 +1,5 @@
-<h1>Hello there, fellow developers..! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h1>
-<p>I'm <b>Surya</b>, an electronics grad turned out to be a <b>Software Engineer</b>.</p>
+<h1>Hello there ...! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h1>
+<p>I'm <b>Surya</b>, <b>Software Engineer</b> from India who is interested in making the web-based applications.</p>
 
 - 🔭 I’m currently working on <b>Front-end Development</b>.
 - 🌱 <b>Tech Stack</b>: React, NodeJS, Express, Javascript, Python.
